@@ -1,0 +1,15 @@
+D:\CSharp\TC\repos\SelectionStatements\Switch\bin\Debug\net6.0\Switch.exe
+D:\CSharp\TC\repos\SelectionStatements\Switch\bin\Debug\net6.0\Switch.deps.json
+D:\CSharp\TC\repos\SelectionStatements\Switch\bin\Debug\net6.0\Switch.runtimeconfig.json
+D:\CSharp\TC\repos\SelectionStatements\Switch\bin\Debug\net6.0\Switch.dll
+D:\CSharp\TC\repos\SelectionStatements\Switch\bin\Debug\net6.0\Switch.pdb
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.csproj.AssemblyReference.cache
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.AssemblyInfoInputs.cache
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.AssemblyInfo.cs
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.csproj.CoreCompileInputs.cache
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.dll
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\refint\Switch.dll
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.pdb
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\Switch.genruntimeconfig.cache
+D:\CSharp\TC\repos\SelectionStatements\Switch\obj\Debug\net6.0\ref\Switch.dll
